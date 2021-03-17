@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: orange;
+}
+#marqueestyle{
+    font-size: 40px;
+    color: firebrick;
+}
+iframe{
+    width: 600px;
+}
+.branch{
+    width: 300px;
+}
+#button_facebook{
+    width: 199px;
+    height: 190px;
+    background-image:url(facebook%20final.jpg);
+    border-radius: 30px
+}
+#button_instagram{
+    width: 169px;
+    height: 169px;
+    background-image:url(instagram.jpg);
+    border-radius: 40px;
+}
+#button_twitter{
+    width: 199px;
+    height: 199px;
+    background-image:url(twitter.png);
+    border-radius: 40px;
+}
+.NL{
+    margin-left: 340px;
+}
+.book p{
+        margin-left: 400px;
+}
